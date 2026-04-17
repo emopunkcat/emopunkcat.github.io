@@ -329,7 +329,7 @@
             
             <div class="brutalist-border p-6 flex flex-col justify-start scroll-fade delay-2">
                 <span class="mono text-[10px] uppercase font-bold block mb-3">Direct_Link</span>
-                <a href="mailto:johann@gmail.com" class="text-base font-black underline hover:bg-black hover:text-white transition-all break-words">johann@gmail.com</a>
+                <a href="mailto:johann@punk.sh" class="text-base font-black underline hover:bg-black hover:text-white transition-all break-words">johann@punk.sh</a>
                 <div class="mt-4 jp text-xl font-black opacity-20">連絡する</div>
             </div>
         </div>
