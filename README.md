@@ -306,13 +306,13 @@
                     </ul>
                 </div>
                 <div class="brutalist-border p-6 bg-black text-white scroll-slide-right delay-2">
-                    <h3 class="text-xl font-black uppercase italic mb-4 text-white">Security_Tools</h3>
+                    <h3 class="text-xl font-black uppercase italic mb-4 text-white">LLMS I LOVE</h3>
                     <div class="flex flex-wrap gap-2">
-                        <span class="border border-white/30 p-1 px-2 mono text-[10px]">METASPLOIT</span>
-                        <span class="border border-white/30 p-1 px-2 mono text-[10px]">BURPSUITE</span>
-                        <span class="border border-white/30 p-1 px-2 mono text-[10px]">OSQUERY</span>
-                        <span class="border border-white/30 p-1 px-2 mono text-[10px]">YARA</span>
-                        <span class="border border-white/30 p-1 px-2 mono text-[10px]">BLOODHOUND</span>
+                        <span class="border border-white/30 p-1 px-2 mono text-[10px]">QWEN3.5 27b | 35B A3B</span>
+                        <span class="border border-white/30 p-1 px-2 mono text-[10px]">DEEPSEEK V3.2 </span>
+                        <span class="border border-white/30 p-1 px-2 mono text-[10px]">GLM 5 | 4.7 FLASH</span>
+                        <span class="border border-white/30 p-1 px-2 mono text-[10px]">MINIMAX 2.7</span>
+                        <span class="border border-white/30 p-1 px-2 mono text-[10px]">SUPERGEMMA4 26B A4B</span>
                     </div>
                 </div>
             </section>
