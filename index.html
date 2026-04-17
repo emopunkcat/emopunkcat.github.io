@@ -332,20 +332,6 @@
                 <a href="mailto:johann@gmail.com" class="text-base font-black underline hover:bg-black hover:text-white transition-all break-words">johann@gmail.com</a>
                 <div class="mt-4 jp text-xl font-black opacity-20">連絡する</div>
             </div>
-
-            <div class="brutalist-border p-6 col-span-1 sm:col-span-2 lg:col-span-2 bg-white relative overflow-hidden scroll-fade delay-3">
-                <div class="absolute inset-0 halftone-box"></div>
-                <div class="relative z-10 w-full">
-                    <p class="text-[10px] font-bold uppercase leading-tight mb-3">
-                        Building secure, redundant systems from Raleigh, NC. Focused on infrastructure as code, offensive security, and high-fidelity data pipelines.
-                    </p>
-                    <div class="flex gap-3 flex-wrap">
-                        <a href="#" class="mono text-[10px] font-bold underline uppercase">LinkedIn</a>
-                        <a href="#" class="mono text-[10px] font-bold underline uppercase">GitHub</a>
-                        <a href="#" class="mono text-[10px] font-bold underline uppercase">Resume.PDF</a>
-                    </div>
-                </div>
-            </div>
         </div>
 
         <div class="opacity-40 text-[10px] mono font-bold uppercase text-center space-y-2 scroll-fade delay-4">
