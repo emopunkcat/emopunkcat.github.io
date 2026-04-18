@@ -269,6 +269,14 @@
         <!-- Main Body: Logs and Features -->
         <main class="lg:col-span-8 space-y-8">
             
+
+            <div class="brutalist-border p-6 bg-white scroll-fade">
+                <h3 class="text-xl font-black uppercase italic mb-4">About Me !*</h3>
+                <p class="mono text-sm">
+                    A highly driven, self-taught engineer who skipped the traditional college route to build hands-on expertise. Operating out of a high-rise homelab (running Proxmox, TrueNAS, and Docker stacks), I balance intense technical projects with an always-move-forward lifestyle. When I'm not designing llm orchestrations or attending in-person cyber defense events in D.C., I'm wrenching on my 1998 Mitsubishi 3000GT SL, dominating Ascendant-rank Valorant lobbies, or traveling internationally. An audiophile with a love for Metal/Rock/Punk and all music. Enjoy downtime in Raleigh with my girlfriend & cat.
+                </p>
+            </div>
+
             <!-- Homelab Gallery -->
             <div class="brutalist-border p-6 bg-white scroll-fade">
                 <h3 class="text-xl font-black uppercase italic mb-4">Homelab Gallery</h3>
